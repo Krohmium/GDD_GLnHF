@@ -348,6 +348,7 @@ GameObject:
   - component: {fileID: 920137679}
   - component: {fileID: 920137681}
   - component: {fileID: 920137680}
+  - component: {fileID: 920137682}
   m_Layer: 0
   m_Name: Background1
   m_TagString: Untagged
@@ -526,6 +527,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textColor: {r: 1, g: 0, b: 0, a: 1}
+--- !u!114 &920137682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920137677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 759e01485163280919b47e7001d71895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 3159967972974161194, guid: 950fed57046169b07b6f20f293a9e0e8,
+    type: 3}
 --- !u!1001 &1000532807
 PrefabInstance:
   m_ObjectHideFlags: 0
