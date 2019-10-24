@@ -17,6 +17,7 @@ https://opengameart.org/content/mountain-at-dusk-background
 CC0 Public Domain
 
 Music:
-River of No - The Air, Black
-http://www.spettrorec.com/index.php?/albums/indigo/#sr200
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License.
+Hinterheim - sednoseterces
+https://hinterheim.tumblr.com/
+Attribution 4.0 International (CC BY 4.0) 
+https://creativecommons.org/licenses/by/4.0/
